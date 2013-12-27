@@ -55,3 +55,14 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "osx",    "2.2.1"
+
+github "alfred",         "1.1.7"
+github "caffeine",       "1.0.0"
+github "chrome",         "1.1.2"
+github "firefox",        "1.1.7"
+github "iterm2",         "1.0.6"
+github "skype",          "1.0.8"
+github "sublime_text_2", "1.1.2"
+github "zsh",            "1.0.0"
